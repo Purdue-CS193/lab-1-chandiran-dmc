@@ -1,3 +1,14 @@
+# Chandiran's first CS193 Lab
+
+Things I like about CS 193:
+- The instructor's are really funny.
+- I'll get points if I just show up.
+- It's biweekly.
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
